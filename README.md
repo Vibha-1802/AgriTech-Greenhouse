@@ -85,6 +85,9 @@ All components are powered by solar energy and display real-time data on an LCD.
 
 ## 🔬Testing
 
+https://github.com/user-attachments/assets/e3b8f9ce-75b4-4743-afa6-b37d330a3964
+
+
 Each component and module was tested individually before integrating.
 
 **Results:**
